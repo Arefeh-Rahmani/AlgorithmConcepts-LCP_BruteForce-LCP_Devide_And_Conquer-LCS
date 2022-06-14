@@ -1,0 +1,7 @@
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\bin\Debug\AlgorithmConcepts.exe.config
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\bin\Debug\AlgorithmConcepts.exe
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\bin\Debug\AlgorithmConcepts.pdb
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\obj\Debug\AlgorithmConcepts.csprojAssemblyReference.cache
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\obj\Debug\AlgorithmConcepts.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\obj\Debug\AlgorithmConcepts.exe
+C:\Users\asus\Source\repos\AlgorithmConcepts\AlgorithmConcepts\obj\Debug\AlgorithmConcepts.pdb
